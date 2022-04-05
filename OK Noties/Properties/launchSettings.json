@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "OK Noties (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "OK Noties (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
